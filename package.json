@@ -1,0 +1,14 @@
+{
+  "name": "stock-predictions-ai-app",
+  "description": "Web application that allows users to input a stock symbol, fetches the latest stock price data using the Alpha Vantage API, and analyzes potential trends using OpenAI's GPT model. This project demonstrates the integration of external APIs and AI models for basic market insight and predictions.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
